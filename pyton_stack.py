@@ -1,7 +1,7 @@
 stack = []
 
 
-stack.append('A')
+stack.append('D')
 stack.append('B')
 stack.append('C')
 print("Stack: ", stack)
