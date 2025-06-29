@@ -1,4 +1,4 @@
-class LinkedList{
+
  class Node{
  int data;
  Node next;
@@ -22,4 +22,4 @@ current=current.next;
 
 }
 current.next=newNode;
-}
+
